@@ -1,4 +1,4 @@
-module github.com/bbedward/crypto/ed25519
+module github.com/paw-digital/crypto/ed25519
 
 go 1.14
 

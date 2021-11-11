@@ -22,7 +22,7 @@ import (
 
 	"golang.org/x/crypto/blake2b"
 
-	"github.com/bbedward/crypto/ed25519/internal/edwards25519"
+	"github.com/paw-digital/crypto/ed25519/internal/edwards25519"
 )
 
 const (
